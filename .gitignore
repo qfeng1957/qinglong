@@ -20,7 +20,6 @@
 /src/.umi-production
 /src/.umi-test
 /.env.local
-.env
 .history
 .version.ts
 
